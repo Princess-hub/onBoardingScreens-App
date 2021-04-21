@@ -14,7 +14,7 @@ export default function OnlineShopping() {
 
                 <Text style={styles.textDetail}>A promissory note, sometimes referred to as a note payable,
                  is a legal instrument, in which one party promises in writing to pay a determinate 
-                 sum of money to the other, either at a fixed or determinable future
+                sum of money to the other, either at a fixed or determinable future
                  time or on demand of the payee, under specific terms. Wikipedia.</Text>
 
             </View>
